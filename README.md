@@ -14,6 +14,7 @@ This is a very basic webapi accepts data/records and stores them in a SQL Azure 
  - Includes Swagger Config
 
 Full working sample can be viewed utilizing Swagger UI - https://keypath-b7fabrhugdewdrad.australiaeast-01.azurewebsites.net/swagger
+!!! Please note this may be slow (take a moment to begin working) due to free service tiers warming up
 
 ## Limitations
 There are many limitation due to specific time contraints that should be noted
